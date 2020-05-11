@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Jacob Weikerts' blog, where learning creates innovation 
 
-I'm glad you are here. I plan to talk about ...
+Testing this space out
